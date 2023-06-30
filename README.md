@@ -8,5 +8,9 @@ Sou estudante de : gestão da tecnologia da informação
   <a href="https://instagram.com/vinicios.nascimento0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="https:// vinido635@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  2. Run this command in cmd: pip install tls_client requests colorama pillow
+  3. run the python file by double clicking on it or type: python viewbot.py
+  
+
   
 </div>
