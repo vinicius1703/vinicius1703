@@ -5,7 +5,7 @@ Sou estudante de : gestão da tecnologia da informação
 
 <div>
   <a href="https://www.youtube.com/channel/UCMbt3Sa919sHRRXLrz7xmmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/vinicius__________0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></avinido635@gmail.com>
+  <a href="https://instagram.com/nilaria_thalia0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></avinido635@gmail.com>
  <a href="https://discord.gg/1111082020269989938" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a><a href = "mailto:vinido635@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
