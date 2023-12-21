@@ -2,7 +2,6 @@
 
 graduando em : gestão da tecnologia da informação
 <div style="display: inline_block"><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+venicius+nascimento;Sou+universitário+da+UniFG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://www.youtube.com/channel/UCMbt3Sa919sHRRXLrz7xmmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
