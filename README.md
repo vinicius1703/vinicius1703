@@ -1,7 +1,8 @@
 ## olá! sou vinicius Nascimento
 
 graduando em : gestão da tecnologia da informação
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>![Webp net-resizeimage](https://github.com/vinicius1703/vinicius1703/assets/133178557/179df5f2-dd0e-48b5-bbd2-635bf5fc4f44)
+
 
 <div>
   <a href="https://www.youtube.com/channel/UCMbt3Sa919sHRRXLrz7xmmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
