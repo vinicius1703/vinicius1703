@@ -1,7 +1,8 @@
 ## olá! sou vinicius Nascimento
 
 graduando em : gestão da tecnologia da informação
-<div style="display: inline_block"><br>![Webp net-resizeimage](https://github.com/vinicius1703/vinicius1703/assets/133178557/179df5f2-dd0e-48b5-bbd2-635bf5fc4f44)
+<div style="display: inline_block"><br>!
+  [Webp net-resizeimage](https://github.com/vinicius1703/vinicius1703/assets/133178557/179df5f2-dd0e-48b5-bbd2-635bf5fc4f44)
 
 
 <div>
