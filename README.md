@@ -12,6 +12,5 @@ graduando em : gestão da tecnologia da informação
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>@@ -91,9 +91,12 @@ corpo, html {
-}
+
 
