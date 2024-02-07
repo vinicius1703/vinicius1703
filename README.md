@@ -2,7 +2,7 @@
 
 graduando em : gestão da tecnologia da informação
 <div style="display: inline_block"><br>
-  [Webp net-resizeimage
+ 
 
 
 <div>
