@@ -1,7 +1,7 @@
 ## olá! sou vinicius Nascimento
 
 # 💫 About Me:
-🔭 Sou esteundante de Ti<br>👯 aA procura de emprego <br>🤝<br>🌱 <br>💬 <br>⚡ Fun fact
+🔭 Sou esteundante de Ti<br>👯 A procura de emprego <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
