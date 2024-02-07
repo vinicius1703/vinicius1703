@@ -1,7 +1,7 @@
 ## olá! sou vinicius Nascimento
 
 # 💫 About Me:
-🔭 Sou esteundante de Ti<br>👯 <br>🤝<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Sou esteundante de Ti<br>👯 <br>🤝<br>🌱 <br>💬 <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
